@@ -78,3 +78,13 @@ routes: {
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or create a pull request.
+
+
+
+## screen shorts
+
+![c1](https://github.com/divyansiranpariya/Time_Sclupt/assets/154776848/3d72459f-cef9-4f6a-b3e2-b8527b2b25aa)
+![c2](https://github.com/divyansiranpariya/Time_Sclupt/assets/154776848/d7765bd1-32f2-452c-86ef-0698b8b9b42a)
+![c3](https://github.com/divyansiranpariya/Time_Sclupt/assets/154776848/2fea2abb-d656-4ff9-b232-c6176cb99867)
+![c4](https://github.com/divyansiranpariya/Time_Sclupt/assets/154776848/86613dc7-b9d8-4cb5-b5bf-c6b54a95bf6b)
+![c5](https://github.com/divyansiranpariya/Time_Sclupt/assets/154776848/9cb705cc-fdd6-4a45-af84-b27ee1821b53)
