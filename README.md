@@ -6,8 +6,8 @@
 
 ## Features
 ```
-* Displays current time with hour and minute digits.
-* Updates in real-time with smooth animation.
+- Displays current time with hour and minute digits.
+- Updates in real-time with smooth animation.
 * Shows the current date.
 * Glass-like design for aesthetic appeal.
 *  Set multiple alarms with different times.
