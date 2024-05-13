@@ -5,7 +5,6 @@
   For Mobile : https://github.com/divyansiranpariya/Time_Sclupt
 
 ## Features
-```
 - Displays current time with hour and minute digits.
 - Updates in real-time with smooth animation.
 * Shows the current date.
@@ -15,8 +14,7 @@
 *  Sleek and modern design with glass-like UI elements.
 * Set a countdown timer.
 *  Start, pause, and reset the timer.
-```
-
+ 
 
 ## Folder Structure
 * Here is the core folder structure which flutter provides.
