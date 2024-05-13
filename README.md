@@ -3,7 +3,6 @@
 - This Flutter project is a simple digital clock app with a glass-like design. It displays the current time, date, and features navigation buttons to access other pages within the app.
  
   For Mobile : https://github.com/divyansiranpariya/Time_Sclupt
-
 ## Features
 - Displays current time with hour and minute digits.
 - Updates in real-time with smooth animation.
